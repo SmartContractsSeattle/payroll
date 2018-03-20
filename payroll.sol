@@ -1,7 +1,7 @@
 pragma solidity ^0.4.15;
 contract newPayroll {
 
-
+                           //use your own Mist wallet addresses
     address[] employees = [0x1dD364dB3C0352C8C15df4dC5C42ae7158Cbb39e,
                            0xB77539Cfd9EcAbdc36F5eC8a858f8fB31D7c8d6c,
                            0x575f8DA2ffa0B77B23d647BB5A39739283d49368];

@@ -1,0 +1,5 @@
+# Truffle compiled json
+build/
+lib/
+node_modules/
+yarn-error.log

@@ -1,0 +1,14 @@
+{
+    "name": "Contract_Sandbox",
+    "version": "0.0.1",
+    "private": true,
+    "author": "Zohaib Rauf<zabirauf@gmail.com",
+    "license": "MIT",
+    "scripts": {
+      "test": "truffle test"
+    },
+    "devDependencies": {
+      "ethereumjs-abi": "^0.6.5",
+      "truffle": "^4.0.4"
+    }
+  }
